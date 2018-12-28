@@ -1,3 +1,4 @@
+i just learn it, not for other use.
 Run the code like this:
 
 *python face_detect.py abba.png*
